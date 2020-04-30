@@ -1,4 +1,4 @@
-package com.problems.string.LongestRepeatedSubstring;
+package others;
 
 import java.util.ArrayList;
 import java.util.Arrays;
